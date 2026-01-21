@@ -23,3 +23,6 @@ myenv/
 # IDEs
 .vscode/
 .idea/
+
+# ChromaDB
+chroma_persistent_storage/
